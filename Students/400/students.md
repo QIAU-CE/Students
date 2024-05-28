@@ -182,7 +182,7 @@
 - **اميررضا موسوي** (Is Member: No)
 - **محسن ترابي** (Is Member: No)
 - **محمدرضا سليمي** (Is Member: No)
-- **پارسا كرباسي** (Is Member: No)
+- **پارسا كرباسي** (Is Member: Yes)
 - **آريانا طاهري** (Is Member: No)
 - **فاطمه سادات حسيني** (Is Member: No)
 - **محمد علي ملاولي** (Is Member: No)
